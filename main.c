@@ -11,7 +11,7 @@
  * Created on 10 janvier 2019, 12:47
  */
 
-#include"plateau.h"
+#include "plateau.h"
 
 /*
  * 
