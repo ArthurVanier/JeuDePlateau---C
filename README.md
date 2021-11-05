@@ -4,4 +4,16 @@
 
 Réalisé sur en C ce mini jeu se déroule en console
 
-## Compiler et lancer le projet
+## Lancer le projet
+
+    Exécuter le fichier main.exe
+
+## Compiler le projet
+
+Sous GNU
+
+    make
+
+Sous Windows avec MinGW
+
+    mingw32-make
