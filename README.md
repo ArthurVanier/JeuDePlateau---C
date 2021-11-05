@@ -2,7 +2,11 @@
 
 ## Présentation du projet
 
-Réalisé sur en C ce mini jeu se déroule en console
+Jeu de plateau en console tour par tour ou on affronte en 1vs1 un adversaire, chaque joueur peux selectionner un personnage qui possede différents sorts, de plus on choisir un set d'objet au début de la partie, la partie se termien lorqsue les hp d'un joueur est a 0.
+
+## Language de programmation
+
+Ce programme a été réalisé en C
 
 ## Lancer le projet
 
