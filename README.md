@@ -1,4 +1,4 @@
-# JeuDePlateau Racaille Royale
+# Racaille Royale
 
 ## Présentation du projet
 
